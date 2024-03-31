@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/favoriteButton"
+        android:icon="@drawable/baseline_favorite_menu_24"
+        android:title="@string/favorite_button_description"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/settingsButton"
+        android:icon="@drawable/baseline_dark_mode_24"
+        android:title="@string/dark_mode"
+        app:showAsAction="ifRoom" />
+</menu>

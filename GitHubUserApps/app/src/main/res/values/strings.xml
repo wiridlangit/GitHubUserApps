@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GitHubApps</string>
+    <string name="title"> </string>
+    <string name="description"> </string>
+    <string name="send"> </string>
+    <string name="todo"> </string>
+    <string name="name">Name</string>
+    <string name="tab1">Followers</string>
+    <string name="tab2">Following</string>
+    <string name="followers">%d Followers</string>
+    <string name="following">%d Following</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="search">Search Username</string>
+    <string name="searchbar_hint">Masukkan kata</string>
+    <string name="favorite_button_description">Favorite</string>
+
+</resources>
